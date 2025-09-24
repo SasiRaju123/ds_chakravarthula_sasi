@@ -27,7 +27,7 @@ ds_sasiraju
 - **Colab Notebook (View Only):
 Link -> https://colab.research.google.com/drive/1Z_gk6eURb5i0bOnhUUBlLJgqwQNYrfkd#scrollTo=d5917d73-1cb6-4962-95b5-10031b9d11ea&line=99&uniqifier=1 
 
-- **GitHub Repository:** <paste-your-github-repo-link-here>
+- **GitHub Repository:** [<paste-your-github-repo-link-here>](https://github.com/SasiRaju123/ds_chakravarthula_sasi/tree/main)
 
 ---
 
